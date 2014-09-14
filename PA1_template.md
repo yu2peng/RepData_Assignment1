@@ -37,6 +37,7 @@ head(activity)
 ## 6    NA 2012-10-01       25
 ```
 
+
 ## What is mean total number of steps taken per day?
 
 (ignore the missing values in the dataset.)
@@ -198,6 +199,7 @@ Do these values differ from the estimates from the first part of the assignment?
 # The estimates of total daily number of steps should be more precise if having a suitable strategy for
 # imputing missing data.
 ```
+
 
 
 ## Are there differences in activity patterns between weekdays and weekends?
